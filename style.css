@@ -1,0 +1,29 @@
+.borderless.topmenu{
+  background-image:url("http://roamlog.info/wp-content/uploads/2018/11/fiberon-ipe-decking-problems-arbor-decks-by-residential.jpg");
+  height:58px;
+  font-size:x-large;
+  font-family:"league_gothicregular", "runa", "helvetica", sans-serif;
+  margin-right:10px;
+  color:white;
+}
+.topmenu a.item{
+  color:white;
+}
+.topmenu img{
+  margin-left:100px;
+  padding-left:100px;
+  padding-margin:0px;
+  width:20%;
+  height:150px;
+}
+.middle.background {
+  font-size:17px;
+  line-height:1.5;
+  color:#522222;
+  padding-top:100px;
+  padding-bottom:100px;
+}
+.background{
+  background: url("download-picture.jpg");
+  background-size:cover;
+}
